@@ -1,10 +1,10 @@
 {
-  "name": "webuygulamlari2023",
+  "name": "webuyg2023",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "devStart": "nodemon app.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
